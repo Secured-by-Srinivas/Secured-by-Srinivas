@@ -1,6 +1,5 @@
 # Srinivas Kunchetty
 
-### 👋 About Me
 Cybersecurity enthusiast with a strong background in penetration testing, vulnerability assessments, and automation scripting. Skilled in utilizing data analysis for crime prevention, with hands-on experience in cybersecurity projects and a commitment to improving digital security.
 
 ---
