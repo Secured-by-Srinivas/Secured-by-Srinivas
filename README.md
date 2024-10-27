@@ -12,12 +12,12 @@ Cybersecurity enthusiast with a strong background in penetration testing, vulner
 ---
 
 ### 🛠 Skills
-- **Networking**: Intermediate
-- **Linux**: Intermediate
-- **Ethical Hacking**: Beginner
-- **Vulnerability Assessment and Penetration Testing (VAPT)**: Intermediate
-- **Cybersecurity Knowledge**: Intermediate
-- **Manual Testing**: Intermediate
+- **Networking**
+- **Linux**
+- **Ethical Hacking**
+- **Vulnerability Assessment and Penetration Testing (VAPT)**
+- **Cybersecurity Knowledge**
+- **Manual Testing**
 
 ---
 
@@ -37,6 +37,11 @@ Cybersecurity enthusiast with a strong background in penetration testing, vulner
 
 ### 📂 Projects
 
+- **Li-Fi Technology**  
+  *Apr 2022 - May 2022*  
+  - Presented research on "Li-Fi Network Oriented Technology" at an international conference on Artificial Intelligence, Cybersecurity, Data Science, and Machine Learning.  
+  - [Project Link](https://drive.google.com/drive/folders/1M8h7KYx-p__pHtszKnMFrUAoLACuiHhb?usp=sharing)
+
 - **Data Mining, Intrusion Detection, and Crime Analysis Mapping**  
   *Dec 2023 - Feb 2024*  
   - Developed a crime analysis mapping system using data mining techniques to estimate crime rates from historical data.  
@@ -46,20 +51,15 @@ Cybersecurity enthusiast with a strong background in penetration testing, vulner
   *Jun 2023 - Dec 2023*  
   - Published a paper on mitigating DDoS attacks in IoT environments as part of a minor project at college.  
   - [Project Link](https://drive.google.com/drive/folders/1im2we7TU39Uu0EvkOV3nC543CqaIptMN)
-
-- **Li-Fi Technology**  
-  *Apr 2022 - May 2022*  
-  - Presented research on "Li-Fi Network Oriented Technology" at an international conference on Artificial Intelligence, Cybersecurity, Data Science, and Machine Learning.  
-  - [Project Link](https://drive.google.com/drive/folders/1M8h7KYx-p__pHtszKnMFrUAoLACuiHhb?usp=sharing)
-
+    
 ---
 
 ### 📜 Positions of Responsibility
+- Cyber Warrior, Haryana Police
 - Member of Google Developers Group, Hyderabad
 - Main Lead Volunteer for NSS (2020 - 2024)
 - Co-Coordinator for Street Cause, MRITS (2020 - 2024)
 - Organized "FABTECHULUS" National Level Hackathon
-- Cyber Warrior, Haryana Police
 
 ---
 
